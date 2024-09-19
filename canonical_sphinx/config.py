@@ -179,8 +179,7 @@ def config_inited(_app: Sphinx, config: Any) -> None:  # noqa: ANN401
     ]
 
     has_contributor_listing = "canonical.contributor-listing" in _app.extensions
-    
-    
+
     for value, default in values_and_defaults:
         html_context.setdefault(value, default)
 
