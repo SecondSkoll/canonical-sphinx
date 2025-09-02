@@ -4,6 +4,8 @@ canonical-sphinx
 
 Extension and theme to create great Canonical-branded documentation.
 
+reset commit
+
 Description
 ***********
 
